@@ -1,0 +1,55 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #418dff;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    margin: 0;
+    height: 100vh;
+}
+
+#calculadora {
+    background-color: rgb(247, 129, 231);
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 10px 8px rgba(207, 14, 165, 0.507);
+    text-align:center;
+    width:300px;
+}   
+
+h1 {
+    color: lch(21.06% 7.69 319.46 / 0.719);
+    margin-bottom: 35px;
+    font-size: 30px;
+    box-shadow: 0 4px 6px rgba(14, 13, 13, 0.507);
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+.funcion {
+    background-color: #e070daea;
+    color: rgba(176, 214, 212, 0.884);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(14, 13, 13, 0.507);
+}
+
+.funcion:hover {
+    background-color: rgb(235, 45, 140);
+}
