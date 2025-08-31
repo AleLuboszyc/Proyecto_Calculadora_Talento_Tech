@@ -1,0 +1,12 @@
+En la barra de busqueda ponemos este comando para ver que version de chrome tenemos instalada.
+chrome://version
+
+Enlace para ir a la pagina de webdriver
+
+https://googlechromelabs.github.io/chrome-for-testing/
+
+En mi caso tengo la version 139 tengo que elegir Chromedrive win64
+
+https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win64/chromedriver-win64.zip
+
+El instalador que nos baja lo guardamos en la carpeta que vamos a realizar el testeo o el ejercicio.
